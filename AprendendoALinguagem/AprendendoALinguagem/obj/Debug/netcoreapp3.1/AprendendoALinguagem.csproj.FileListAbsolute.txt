@@ -1,0 +1,14 @@
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\bin\Debug\netcoreapp3.1\AprendendoALinguagem.exe
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\bin\Debug\netcoreapp3.1\AprendendoALinguagem.deps.json
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\bin\Debug\netcoreapp3.1\AprendendoALinguagem.runtimeconfig.json
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\bin\Debug\netcoreapp3.1\AprendendoALinguagem.runtimeconfig.dev.json
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\bin\Debug\netcoreapp3.1\AprendendoALinguagem.dll
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\bin\Debug\netcoreapp3.1\AprendendoALinguagem.pdb
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.csproj.AssemblyReference.cache
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.AssemblyInfoInputs.cache
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.AssemblyInfo.cs
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.dll
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.pdb
+D:\Programação\C#\Projetos\AprendendoALinguagem\AprendendoALinguagem\obj\Debug\netcoreapp3.1\AprendendoALinguagem.genruntimeconfig.cache
