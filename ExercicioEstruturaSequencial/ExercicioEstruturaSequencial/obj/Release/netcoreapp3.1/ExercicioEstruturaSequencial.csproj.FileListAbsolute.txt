@@ -1,0 +1,13 @@
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Release\netcoreapp3.1\ExercicioEstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Release\netcoreapp3.1\ExercicioEstruturaSequencial.AssemblyInfoInputs.cache
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Release\netcoreapp3.1\ExercicioEstruturaSequencial.AssemblyInfo.cs
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Release\netcoreapp3.1\ExercicioEstruturaSequencial.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Release\netcoreapp3.1\ExercicioEstruturaSequencial.exe
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Release\netcoreapp3.1\ExercicioEstruturaSequencial.deps.json
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Release\netcoreapp3.1\ExercicioEstruturaSequencial.runtimeconfig.json
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Release\netcoreapp3.1\ExercicioEstruturaSequencial.runtimeconfig.dev.json
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Release\netcoreapp3.1\ExercicioEstruturaSequencial.dll
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Release\netcoreapp3.1\ExercicioEstruturaSequencial.pdb
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Release\netcoreapp3.1\ExercicioEstruturaSequencial.dll
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Release\netcoreapp3.1\ExercicioEstruturaSequencial.pdb
+D:\Programação\C#\Projetos\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Release\netcoreapp3.1\ExercicioEstruturaSequencial.genruntimeconfig.cache
