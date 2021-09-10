@@ -1,0 +1,14 @@
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.exe
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.deps.json
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.runtimeconfig.json
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.runtimeconfig.dev.json
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.dll
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.pdb
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.csproj.AssemblyReference.cache
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.AssemblyInfoInputs.cache
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.AssemblyInfo.cs
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.dll
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.pdb
+D:\Programação\C#\Projetos\ExercicioSobreClasse\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.genruntimeconfig.cache
