@@ -1,0 +1,14 @@
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\bin\Debug\netcoreapp3.1\BancoDoCristian.exe
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\bin\Debug\netcoreapp3.1\BancoDoCristian.deps.json
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\bin\Debug\netcoreapp3.1\BancoDoCristian.runtimeconfig.json
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\bin\Debug\netcoreapp3.1\BancoDoCristian.runtimeconfig.dev.json
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\bin\Debug\netcoreapp3.1\BancoDoCristian.dll
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\bin\Debug\netcoreapp3.1\BancoDoCristian.pdb
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.csproj.AssemblyReference.cache
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.AssemblyInfoInputs.cache
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.AssemblyInfo.cs
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.dll
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.pdb
+D:\Programação\C#\Projetos\ExercicioBancoDoCristian\BancoDoCristian\obj\Debug\netcoreapp3.1\BancoDoCristian.genruntimeconfig.cache
