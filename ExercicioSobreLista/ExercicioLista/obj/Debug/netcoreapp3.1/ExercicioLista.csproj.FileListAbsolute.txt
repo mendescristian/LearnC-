@@ -1,0 +1,14 @@
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.exe
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.deps.json
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.runtimeconfig.json
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.runtimeconfig.dev.json
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.dll
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.pdb
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.csproj.AssemblyReference.cache
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.AssemblyInfoInputs.cache
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.AssemblyInfo.cs
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.dll
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.pdb
+D:\Programação\C#\Projetos\ExercicioSobreLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.genruntimeconfig.cache
