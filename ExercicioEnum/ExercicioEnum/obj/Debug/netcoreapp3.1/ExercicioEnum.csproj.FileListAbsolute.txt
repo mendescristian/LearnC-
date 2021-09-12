@@ -1,0 +1,14 @@
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.exe
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.deps.json
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.runtimeconfig.json
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.runtimeconfig.dev.json
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.dll
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.pdb
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.csproj.AssemblyReference.cache
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.AssemblyInfoInputs.cache
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.AssemblyInfo.cs
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.dll
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.pdb
+D:\Programação\C#\Projetos\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.genruntimeconfig.cache
