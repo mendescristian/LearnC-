@@ -1,0 +1,14 @@
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\bin\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.exe
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\bin\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.deps.json
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\bin\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.runtimeconfig.json
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\bin\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.runtimeconfig.dev.json
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\bin\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.dll
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\bin\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.pdb
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.csproj.AssemblyReference.cache
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.AssemblyInfoInputs.cache
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.AssemblyInfo.cs
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.dll
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.pdb
+D:\Programação\C#\Projetos\ExercicioAluguelDeCarros\ExercicioAluguelDeCarros\obj\Debug\netcoreapp3.1\ExercicioAluguelDeCarros.genruntimeconfig.cache
